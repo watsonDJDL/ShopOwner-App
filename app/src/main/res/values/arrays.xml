@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="type_options">
+        <item>@string/spinner_default_selection</item>
+        <item>配饰</item>
+        <item>服装</item>
+        <!-- 添加其他选项 -->
+    </string-array>
+</resources>

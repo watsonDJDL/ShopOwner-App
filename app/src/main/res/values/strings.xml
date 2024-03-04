@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ShopOwner</string>
+    <string name="title_string">商品管理</string>
+    <string name="spinner_default_selection">请选择...</string>
+    <string name="string_divider">-</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+</resources>
